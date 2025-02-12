@@ -105,13 +105,3 @@ status_label = tk.Label(root, text="")
 status_label.pack()
 
 root.mainloop()
-
-
-#.\venv\Scripts\activate-----------------------activate venv 1st imp. cmd
-
- #python .\venv\Image_encryptor.py----------------------> 2nd run cmd imp.
-
-# """ PS C:\Users\plilh\Documents\Rohini's documents\Image_Encryptor_pro.py> .\venv\Scripts\activate
-# >> 
-# (venv) PS C:\Users\plilh\Documents\Rohini's documents\Image_Encryptor_pro.py> python .\venv\Image_encryptor.py
-# Exception in Tkinter callback"""
